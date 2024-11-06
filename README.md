@@ -18,7 +18,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasluis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasluis&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    ## Tecnologias e Ferramentas
+    
+## Tecnologias e Ferramentas
+    
   <div style="display: inline_block" align="center"><br>
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img  alt="spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
