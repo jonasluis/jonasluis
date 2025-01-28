@@ -7,10 +7,10 @@
 
 <div align="center">
   
-🔭 Eu sou estudande de  Ciência da Computação! 
+🔭 Formado em Ciência da Computação! 
 
 
-🌱 Também estou estudando Back-end com Java.
+🌱 Desenvolvedor Back-end Junior.
 
 </div>
 <div align="center">
@@ -38,7 +38,7 @@
 </div>
   <p></p>
   <div align="center"> 
-  <a href="[https://www.instagram.com/jonas__dev](https://www.instagram.com/jonas__dev)/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/jonas__dev/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:jonasluis66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jonasluisds/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
