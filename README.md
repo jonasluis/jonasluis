@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=080808&background=FFFFFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ola%2C+eu+sou+Jonas+Luis!+%E2%98%95%F0%9F%92%BB%F0" alt="Typing SVG" /></a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=ffffff&background=FFFFFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ola%2C+eu+sou+Jonas+Luis!+%E2%98%95%F0%9F%92%BB%F0" alt="Typing SVG" /></a>
     
 </p>
 
@@ -10,7 +10,7 @@
 🔭 Formado em Ciência da Computação! 
 
 
-🌱 Desenvolvedor Back-end Junior.
+🌱 Desenvolvedor Back-end.
 
 </div>
 
@@ -20,8 +20,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasluis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inli_block">
-  <h2>Skills Back end</h2>
+<div  align="center">
+  <h2>Skills Back-end</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
